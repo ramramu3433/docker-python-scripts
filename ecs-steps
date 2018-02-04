@@ -1,0 +1,4 @@
+ECR:
+if u get --no-include-email error in using docker login <repository>
+[512571996151.dkr.ecr.us-west-2.amazonaws.com]
+aws ecr get-login --no-include-email --region us-west-2 
